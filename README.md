@@ -1,6 +1,6 @@
-# The Practical Training for the EEDA Autumn School on AI (https://eeda2023.github.io/)
+# The Practical Training for the SAAI Summer School on AI (https://saai2024.github.io/)
 
-![A1 Poster for print_SA_Post](https://github.com/albarqounilab/EEDA-Autumn-School/assets/6394864/d1d37a76-7d43-43b3-8728-a12e894215ae)
+
 
 ## Outline
 1. Linear Regression
