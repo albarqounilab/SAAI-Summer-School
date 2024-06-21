@@ -1,6 +1,6 @@
 # The Practical Training for the SAAI Summer School on AI (https://saai2024.github.io/)
 
-
+![SAAI_Poster](https://github.com/albarqounilab/SAAI-Summer-School/assets/6394864/cf2c30c1-f83b-4e44-9d86-971609758fcb)
 
 ## Outline
 1. Linear Regression
