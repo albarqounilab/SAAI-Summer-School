@@ -30,4 +30,4 @@
 - [DBScan visualization](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 
 ## License
-This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). See [LICENSE](https://github.com/albarqounilab/FedDis-NMI/blob/main/LICENSE.md) for more details
+This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). See [LICENSE](LICENSE.md) for more details
