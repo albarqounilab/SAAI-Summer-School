@@ -1,3 +1,5 @@
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 # The Practical Training for the SAAI Summer School on AI (https://saai2024.github.io/)
 
 ![SAAI_Poster](https://github.com/albarqounilab/SAAI-Summer-School/assets/6394864/cf2c30c1-f83b-4e44-9d86-971609758fcb)
@@ -26,3 +28,6 @@
 - [Image Convolutional Playground](https://generic-github-user.github.io/Image-Convolution-Playground/src/)
 - [K-Means Clustering Demo](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/)
 - [DBScan visualization](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
+
+## License
+This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). See [LICENSE](https://github.com/albarqounilab/FedDis-NMI/blob/main/LICENSE.md) for more details
